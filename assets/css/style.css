@@ -3,8 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/bedge_grunge_@2X.png");
-  /* background: url("../images/squared_metal_@2X.png"); */
+  background: url("../images/bedge_grunge_@2X.png"); 
 }
 
 * {
